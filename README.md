@@ -4,7 +4,7 @@
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" >
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohsin5450&label=Profile%20views&color=0e75b6&style=flat" alt="mohsin5450" /> </p>
 
-- 💬 Ask me about **React js, Node js, MySQL,JavaScript,Java,C++**
+- 💬 Ask me about **React js, Node js, MySQL, JavaScript, Java, C++**
 
 - 📫 How to reach me **mian.mohsinali343@gmail.com**
 
